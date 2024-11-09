@@ -12,7 +12,7 @@
 - 💪🏻  I'm **AI Developer**
 - 👀  I’m interested in: **AI and Cyber Security**
 - 🌱  I’m currently learning: **NLP and UNIX**    
-- 📫  Contact with me! **[https://linktr.ee/huseyinfest](www.linkedin.com/in/huseyinfest)**
+- 📫  Contact with me! **[https://linktr.ee/huseyinfest](www.linktr.ee/huseyinfest)**
 
 ---
 
