@@ -76,7 +76,7 @@ Here, you'll find my explorations in **AI**, **IoT**, **Robotic**, **Cyber Secur
 
 ---
 
-## 🌐 Let's Connect:
+
 ## 🌐 Let's Connect:
 <p align="center">
   <a href="https://linktr.ee/huseyinfest" target="_blank">
