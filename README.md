@@ -1,48 +1,98 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=huseyinfest.huseyinfest">
-<div align="center">
- <a href="https://github.com/huseyinfest">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+HUSEYINFEST+%F0%9F%98%BC;HUSEYIN+EREN+%F0%9F%A4%93" alt="Typing SVG" />
- </a>
-</div>
- 
----
+# Welcome to My GitHub World! 🌍👋
 
-### <p align="center">About Me</p>
- 
-- 💪🏻  I'm **AI Developer**
-- 👀  I’m interested in: **AI and Cyber Security**
-- 🌱  I’m currently learning: **NLP and UNIX**    
-- 📫  Contact with me! **[https://linktr.ee/huseyinfest](www.linktr.ee/huseyinfest)**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=300&section=header&text=Hello!%20I'm%20Hüseyin%20Eren!&fontSize=60&fontAlignY=40&fontColor=FFFFFF)
+
+I am a passionate developer who loves blending **technology** with **creativity**! 💻✨  
+Here, you'll find my explorations in **AI**, **IoT**, **Robotic**, **Cyber Security**!
 
 ---
 
-### <p align="center">My GitHub Stats</p>
+## 🚀 Quick Overview:
+- 🔭 I’m currently working on **cutting-edge AI projects**
+- 🌱 I’m constantly learning **new technologies** like **Reinforcement Learning**, **Cyber Security Tools**, and **Robotic**
+- 💬 Ask me about **Python**, **C++**, **Arduino**, **Linux**, **DeneyapKart**, **Robotic**, and **AI**
+- 🎯 Goal: To create **innovative solutions** that make a difference!
+- ⚡ Fun Fact: I enjoy combining tech with **artistic projects** for fun! 🎨
 
+---
+
+## 🛠️ My Toolset:
 <p align="center">
- <a href="http://www.github.com/huseyinfest"><img src="https://github-profile-trophy.vercel.app/?username=huseyinfest&theme=onedark&column=3"  alt="huseyinfest's GitHub stats" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Tools-Arduino-green?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Tools-ESP8266-blue?style=for-the-badge&logo=espressif" />
+  <img src="https://img.shields.io/badge/Tools-TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
 </p>
 
+---
+
+## 🔥 GitHub Stats & Highlights:
 <p align="center">
- <a href="http://www.github.com/huseyinfest"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinfest&theme=dark&layout=compact&langs_count=8"  alt="huseyinfest's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyinfest&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,contribs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinfest&theme=radical" />
 </p>
 
+---
+
+## 🏆 Trophies & Achievements:
 <p align="center">
- <a href="http://www.github.com/huseyinfest"><img src="https://github-readme-stats.vercel.app/api?username=huseyinfest&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="huseyinfest's GitHub stats" />
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=huseyinfest&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 💻 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinfest&layout=compact&theme=radical&langs_count=10" />
+</p>
+
+---
+
+## 🔥 Highlights & Contributions:
+- **Total Commits (All Time)**: 
+  <img src="https://img.shields.io/badge/Total%20Commits-5000%2B-blue?style=flat-square&logo=github&logoColor=white" />
   
+- **Top Languages Used**: 
+  ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+- **Contributions in Open-Source Projects**: 🌟 Contributed to various **IoT** and **AI** projects
+
+---
+
 <p align="center">
-<a href="http://www.github.com/huseyinfest"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinfest&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-  
- <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huseyinfest/huseyinfest/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huseyinfest/huseyinfest/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huseyinfest/huseyinfest/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyinfest&bg_color=1a1b27&color=ffffff&line=ff9933&point=f5c542&area=true&hide_border=true" />
 </p>
 
-<!---
-huseyinfest/huseyinfest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+## 🧑‍💻 My Favorite Projects:
+- [**Project 1**](https://github.com/huseyinfest/realtimeobjectdetection-arduino-deneyapkart) - 🚀 **An innovative Compute Vision Project** 
+- [**Project 2**](https://github.com/huseyinfest/akilliev) - 🔧 **Hardware project** integrating IoT for smart automation
+- [**Project 3**](https://github.com/huseyinfest/deneyapkartrfidtelegram ) - 🧠 **IoT Project** 
+
+---
+
+## 🌐 Let's Connect:
+## 🌐 Let's Connect:
+<p align="center">
+  <a href="https://linktr.ee/huseyinfest" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Connect-green?style=for-the-badge&logo=linktree" />
+  </a>
+  <a href="https://www.linkedin.com/in/huseyinfest" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/huseyinfest" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/huseyinfest" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=150&section=footer)
