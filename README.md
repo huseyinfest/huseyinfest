@@ -88,7 +88,7 @@ Here, you'll find my explorations in **AI**, **IoT**, **Robotic**, **Cyber Secur
   <a href="https://www.instagram.com/huseyinfest" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://www.youtube.com/channel/@huseyinfest" target="_blank">
+  <a href="https://www.youtube.com/@huseyinfest" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
