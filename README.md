@@ -92,7 +92,6 @@ I am a **Robotics & Artificial Intelligence** student and **Software Developer**
 
 ### Background & Leadership
 
-* **Software Developer** — *Maple Media doo Beograd* *(Belgrade, Serbia)*: Developed and maintained production software solutions in an international engineering environment.
 * **Co-Founder** — [*tuntalks.com*](https://tuntalks.com): Built and moderate a cybersecurity and technology community platform focused on systems architecture and offensive/defensive security.
 * **Robotics & AI Undergraduate** — *Trakya University*: Specializing in autonomous systems, reinforcement learning, and embedded intelligence *(Expected 2027)*.
 * **3-Year Technology Program Graduate** — *Deneyap Technology Workshops*: Completed intensive applied engineering across 11 disciplines including Robotics, AI, Cybersecurity, and IoT.
